@@ -39,7 +39,7 @@ const MessagesContainer = () => {
         </Grid>
         <Grid item xs={4}>
           <Grid item xs={12}>
-            <ErrorType>Error Type 2</ErrorType>
+            <ErrorType>Warning Type 2</ErrorType>
           </Grid>
           <Grid item xs={12}>
             <ErrorCount>Count {count[1]}</ErrorCount>
@@ -57,7 +57,7 @@ const MessagesContainer = () => {
         </Grid>
         <Grid item xs={4}>
           <Grid item xs={12}>
-            <ErrorType>Error Type 3</ErrorType>
+            <ErrorType>Info Type 3</ErrorType>
           </Grid>
           <Grid item xs={12}>
             <ErrorCount>Count {count[2]}</ErrorCount>
